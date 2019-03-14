@@ -6,7 +6,7 @@
 
  works:
 
-	http://abletable.company	
+	http://ua.abletable.company/	
 	http://www.shimadzu.com.ua	
 	https://brold-invest.com
 	https://itprosteer.com
